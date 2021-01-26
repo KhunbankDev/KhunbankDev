@@ -1,5 +1,5 @@
 ### Hi I'm Komkrit nookhampan 👋
-🔭 I’m currently working on back-end web application. I'm use php framwork laravel for development.
+🔭 I have work experience on back-end web application. I'm use php framwork laravel for development.
 I'm learned about HTML,CSS,Javascript,Jquery.
 
 🌱 I’m currently learning Mobile application and Mobile Game. 
